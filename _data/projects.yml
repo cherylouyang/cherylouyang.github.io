@@ -1,0 +1,38 @@
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/cherylouyang/scissors-paper-rock-lizard-spock # Full URL
+    image : "portfolio.png" # path: assets/project/
+    date : 2021.12.11 - Complete
+    title : scissors-paper-rock-lizard-spock
+    summary : Who doesn't love a twist on a classic game?
+    description : This project is me trying to amuse myself.
+    contents :
+        - title : 1. Classic scissors, paper, rock
+          image : home.png
+          description : <li>Responsive Layout</li>
+            <li>User Profile</li> 
+            <li>Tags</li> 
+            <li>Projects</li> 
+            <li>Pagination</li>
+        - title : 2. A twist on the classic
+          image : tags.png
+          description : <li>Responsive Layout</li> 
+            <li>Tags</li> 
+        - title : 3. yey
+          image :
+          description : <li>project</li>
+            <li>test</li>
+            <li>test1</li>
+            <li>test2</li>
+            <li>test3</li> 
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2019.06.09 - Developing
+    title : Dummy project
+    summary : This is Dummy
+    description :  
