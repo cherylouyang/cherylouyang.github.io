@@ -4,7 +4,7 @@ url : "https://cherylouyang.github.io/"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Cheryl Ouyang
   favicon : assets/favicon.ico
 
   # Profile Settings
@@ -13,17 +13,22 @@ theme_settings :
     username : Cheryl Ouyang
     description : just a gal trying to set up her own website
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2022/01
+        end : 2022/02
+        experience : Deloitte, Forensic Technology Intern
+      - start : 2021/11
+        end : 2021/12
+        experience : McGrathNicol, Cyber & Forensic Technology Intern
     skills : 
+      - skill : Python
+        value : 90  # Percent value
       - skill : HTML5 & CSS
         value : 85  # Percent value
         
   # Icons
   icons :
     email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
+    linkedin: https://www.linkedin.com/in/cheryl-ouyang/ # Full URL 
     github: cherylouyang
     gitlab: 
     bitbucket: 
