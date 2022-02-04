@@ -2,11 +2,14 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/cherylouyang/scissors-paper-rock-lizard-spock # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2021.12.11 - Complete
-    title : scissors-paper-rock-lizard-spock
+    image : "RPSLS.png" # path: assets/project/
+    date : 2021.12 - Complete
+    title : Rock Paper Scissors Lizard Spock
     summary : Who doesn't love a twist on a classic game?
-    description : This project is me trying to amuse myself.
+    description : A game of rock, paper, scissors, lizard, spock. Inspired by The Big Bang Theory and originally created by Sam Kass with Karen Bryla.
+    skills: 
+        - python
+        - command line game
     contents :
         - title : 1. Classic scissors, paper, rock
           image : home.png
@@ -30,9 +33,22 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/cherylouyang/optimise-directory # Full URL
+    image : # path: assets/project/
+    date : 2022.02 - Developing
+    title : Optimise Directories
+    summary : 
+    description : A Python script to sort files into folders based on file type.
+    skills:
+        - python
+        - script
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
+    date : 2022.02 - Developing
+    title : Dummy Project
     summary : This is Dummy
-    description :  
+    description : 

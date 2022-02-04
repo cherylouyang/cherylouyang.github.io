@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Cheryl Ouyang
-    description : just a gal trying to set up her own website
+    description : just a gal exploring the realm of software & technology
     experience :
       - start : 2022/01
         end : 2022/02
@@ -19,10 +19,16 @@ theme_settings :
       - start : 2021/11
         end : 2021/12
         experience : McGrathNicol, Cyber & Forensic Technology Intern
+      - start : 2020/10
+        end : 2021/11
+        experience : UNSW Digital Society, Vice President Operations
+      - start : 2020/01
+        end : 2020/10
+        experience : UNSW Digital Society, Digital Director
     skills : 
       - skill : Python
         value : 90  # Percent value
-      - skill : HTML5 & CSS
+      - skill : C
         value : 85  # Percent value
     languages : 
       - skill : English
