@@ -24,6 +24,15 @@ theme_settings :
         value : 90  # Percent value
       - skill : HTML5 & CSS
         value : 85  # Percent value
+    languages : 
+      - skill : English
+        value : 100  # Percent value
+      - skill : Chinese (Mandarin)
+        value : 90  # Percent value
+      - skill : Chinese (Cantonese)
+        value : 80  # Percent value
+      - skill : Spanish
+        value : 20  # Percent value
         
   # Icons
   icons :
