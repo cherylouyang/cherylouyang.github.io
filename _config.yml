@@ -9,9 +9,11 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/profile.png
     username : Cheryl Ouyang
-    description : just a gal exploring the realm of software & technology
+    description : exploring the realm of software & technology
+        <br>
+        favourite hobbies ~ reading, photography & playing sport 
     experience :
       - start : 2022/01
         end : 2022/02
@@ -30,6 +32,14 @@ theme_settings :
         value : 90  # Percent value
       - skill : C
         value : 85  # Percent value
+      - skill : Java
+        value : 80  # Percent value
+      - skill : SQL
+        value : 85  # Percent value
+      - skill : C#
+        value : 75  # Percent value
+      - skill : HTML
+        value : 70  # Percent value
     languages : 
       - skill : English
         value : 100  # Percent value
