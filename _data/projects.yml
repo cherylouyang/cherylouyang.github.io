@@ -64,3 +64,13 @@
     title : This website!
     summary : A more interesting resume format.
     description : 
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://tacwho.github.io/kNOw-cancer/index.html
+    image : # path: assets/project/
+    date : 2021.10 - Complete
+    title : 2021 Binfsoc Hackathon
+    summary : 
+    description : 

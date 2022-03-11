@@ -1,62 +1,67 @@
 # Site Settings
 baseurl: ""
-url : "https://cherylouyang.github.io/"
+url: "https://cherylouyang.github.io/"
 
 # Blog Settings
-theme_settings :
-  title : Cheryl Ouyang
-  favicon : assets/favicon.ico
+theme_settings:
+  title: Cheryl Ouyang
+  favicon: assets/favicon.ico
 
   # Profile Settings
-  profile :
-    image : assets/img/profile.png
-    username : Cheryl Ouyang
-    description : exploring the realm of software & technology
-        <br>
-        favourite hobbies ~ reading, photography & playing sport 
-    experience :
-      - start : 2022/01
-        end : 2022/02
-        experience : Deloitte, Forensic Technology Intern
-      - start : 2021/11
-        end : 2021/12
-        experience : McGrathNicol, Cyber & Forensic Technology Intern
-      - start : 2020/10
-        end : 2021/11
-        experience : UNSW Digital Society, Vice President Operations
-      - start : 2020/01
-        end : 2020/10
-        experience : UNSW Digital Society, Digital Director
-    skills : 
-      - skill : Python
-        value : 90  # Percent value
-      - skill : C
-        value : 85  # Percent value
-      - skill : Java
-        value : 80  # Percent value
-      - skill : SQL
-        value : 85  # Percent value
-      - skill : C#
-        value : 75  # Percent value
-      - skill : HTML
-        value : 70  # Percent value
-    languages : 
-      - skill : English
-        value : 100  # Percent value
-      - skill : Chinese (Mandarin)
-        value : 90  # Percent value
-      - skill : Chinese (Cantonese)
-        value : 80  # Percent value
-      - skill : Spanish
-        value : 20  # Percent value
-        
+  profile:
+    image: assets/img/profile.png
+    username: Cheryl Ouyang
+    description: exploring the realm of software & technology
+      <br>
+      favourite hobbies ~ reading, photography & playing sport
+    experience:
+      - start: 2022/02
+        end: Present
+        experience: UNSW CSESoc, Software Engineer
+      - start: 2022/01
+        end: 2022/02
+        experience: Deloitte, Forensic Technology Intern
+      - start: 2021/11
+        end: 2021/12
+        experience: McGrathNicol, Cyber & Forensic Technology Intern
+      - start: 2020/10
+        end: 2021/11
+        experience: UNSW Digital Society, Vice President Operations
+      - start: 2020/01
+        end: 2020/10
+        experience: UNSW Digital Society, Digital Director
+    skills:
+      - skill: Python
+        value: 90 # Percent value
+      - skill: Java
+        value: 85 # Percent value
+      - skill: C
+        value: 80 # Percent value
+      - skill: JavaScript & TypeScript
+        value: 75 # Percent value
+      - skill: SQL
+        value: 80 # Percent value
+      - skill: C#
+        value: 70 # Percent value
+      - skill: HTML
+        value: 80 # Percent value
+    languages:
+      - skill: English
+        value: 100 # Percent value
+      - skill: Chinese (Mandarin)
+        value: 90 # Percent value
+      - skill: Chinese (Cantonese)
+        value: 80 # Percent value
+      - skill: Spanish
+        value: 20 # Percent value
+
   # Icons
-  icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin: https://www.linkedin.com/in/cheryl-ouyang/ # Full URL 
+  icons:
+    email: # Full email address, e.g. "sample@google.com"
+    linkedin: https://www.linkedin.com/in/cheryl-ouyang/ # Full URL
     github: cherylouyang
-    gitlab: 
-    bitbucket: 
+    gitlab:
+    bitbucket:
     google_plus:
     twitter:
     youtube:
@@ -64,7 +69,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname:
 
 # Pagination
 paginate: 5
