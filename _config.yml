@@ -15,9 +15,12 @@ theme_settings:
       <br>
       favourite hobbies ~ reading, photography & playing sport
     experience:
+      - start: 2022/04
+        end: Present
+        experience: Cisco, Network Engineer Intern
       - start: 2022/02
         end: Present
-        experience: UNSW CSESoc, Software Engineer
+        experience: UNSW CSESoc, Freerooms Project Team Member
       - start: 2022/01
         end: 2022/02
         experience: Deloitte, Forensic Technology Intern
